@@ -7,7 +7,7 @@
 
 ### Task
 1. Install Docker
-2. Clone all files from the repo to your local directory
+2. Clone all files from the repo to your local directory (also you can unzip nodebuild.zip after download) 
 3. Enter your local repo
 4. Run docker-compose up
 
